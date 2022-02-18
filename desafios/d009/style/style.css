@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(0, 0, 0, 0.842);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+a:hover{
+    color:red;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+a{
+    color: white;
+}
